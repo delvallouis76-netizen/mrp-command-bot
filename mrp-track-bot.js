@@ -12,7 +12,7 @@
  * ╚══════════════════════════════════════════════════════════╝
  *
  * ENV VARS:
- *   BOT_TOKEN        — MTU2NTMwODE2OTA4Nzg3NzIxMA.GWBnT1.kT7IJcHfhkGdSbjq7Hw43cTi78oNnGf4Ru6Apk
+ *   BOT_TOKEN        — MTU2NTMwODE2OTA4Nzg3NzIxMA.Gf6WF-.w0S0Yj7bxs2Nn03S7LI4qO-xF3TgYEHBuAR28Q
  *   BOT_APP_ID       — 1565308169087877210
  *   OSPREY_BASE      — Osprey V2 base (default: https://api.gms-admin.net/api/v2)
  *   GEOFS_API        — GeoFS live API  (default: https://mps.geo-fs.com/map)
