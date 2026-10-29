@@ -12,7 +12,7 @@
  * ╚══════════════════════════════════════════════════════════╝
  *
  * ENV VARS:
- *   BOT_TOKEN        — MTU2NTMwODE2OTA4Nzg3NzIxMA.GiwN-3.JZGFI0Sw3kb0TxdcN9TmTh1nLLI4Ic5NNDXRvs
+ *   BOT_TOKEN        — 
  *   BOT_APP_ID       — 1565308169087877210
  *   OSPREY_BASE      — Osprey V2 base (default: https://api.gms-admin.net/api/v2)
  *   GEOFS_API        — GeoFS live API  (default: https://mps.geo-fs.com/map)
@@ -31,8 +31,8 @@ const {
 const PatrolLog=require('./patrol-log');
 
 // ── ENV ──────────────────────────────────────────────────────────────────────
-const TOKEN     = process.env.BOT_TOKEN    || 'MTU2NTMwODE2OTA4Nzg3NzIxMA.GiwN-3.JZGFI0Sw3kb0TxdcN9TmTh1nLLI4Ic5NNDXRvs';
-const APP_ID    = process.env.BOT_APP_ID   || '1565308169087877210';
+const TOKEN     = process.env.BOT_TOKEN    || '';
+const APP_ID    = process.env.BOT_APP_ID   || '';
 const OSPREY    = process.env.OSPREY_BASE  || 'https://api.gms-admin.net/api/v2';
 const GEOFS_API = process.env.GEOFS_API    || 'https://mps.geo-fs.com/map';
 const POLL_MS   = +process.env.POLL_MS     || 12_000;
