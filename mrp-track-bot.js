@@ -12,8 +12,8 @@
  * ╚══════════════════════════════════════════════════════════╝
  *
  * ENV VARS:
- *   BOT_TOKEN        — Discord bot token  (required)
- *   BOT_APP_ID       — Discord app/client ID  (required)
+ *   BOT_TOKEN        — MTU2NTMwODE2OTA4Nzg3NzIxMA.GWBnT1.kT7IJcHfhkGdSbjq7Hw43cTi78oNnGf4Ru6Apk
+ *   BOT_APP_ID       — 1565308169087877210
  *   OSPREY_BASE      — Osprey V2 base (default: https://api.gms-admin.net/api/v2)
  *   GEOFS_API        — GeoFS live API  (default: https://mps.geo-fs.com/map)
  *   POLL_MS          — Poll interval ms (default: 12000)
@@ -31,8 +31,8 @@ const {
 const PatrolLog=require('./patrol-log');
 
 // ── ENV ──────────────────────────────────────────────────────────────────────
-const TOKEN     = process.env.BOT_TOKEN    || '';
-const APP_ID    = process.env.BOT_APP_ID   || '';
+const TOKEN     = process.env.BOT_TOKEN    || 'MTU2NTMwODE2OTA4Nzg3NzIxMA.GWBnT1.kT7IJcHfhkGdSbjq7Hw43cTi78oNnGf4Ru6Apk';
+const APP_ID    = process.env.BOT_APP_ID   || '1565308169087877210';
 const OSPREY    = process.env.OSPREY_BASE  || 'https://api.gms-admin.net/api/v2';
 const GEOFS_API = process.env.GEOFS_API    || 'https://mps.geo-fs.com/map';
 const POLL_MS   = +process.env.POLL_MS     || 12_000;
@@ -43,8 +43,8 @@ const BOXES_PATH= path.join(__dirname,'aoboxes.json');
 
 // ── MRP TAG LIST ─────────────────────────────────────────────────────────────
 const MRP_TAGS=[
-  'U','UTP','P','PMC','NKG-KG','SHL','NFS','AEF','RPAF','WANK','NIUF',
-  'RNLAF','RNZAF','USAF','RAAF','TUAF','TASC','UAC','UAEAF','USSR',
+  'U','UTP','P','PMC','NKG-KG','FAF','FASF','IAF','IRF','PLAAF','RDAF','SAAF','SPQR','RN','RN-FAA','USN','RAAF-TNI','PLAAF-RTAF','SHL','NFS','AEF','RPAF','WANK','NIUF',
+  'RNLAF','RNZAF','USAF','RAAF','TUAF','TASC','UAC','UAEAF','USSR','USAF-CIPPZ','USA-CIPPZ','KPAAF',
   'BAF','PAF','JASDF','RAF','VKS','EVKS','PRC','MAC','BPYR','FFL',
 ];
 
