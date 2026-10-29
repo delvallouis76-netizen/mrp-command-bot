@@ -1,0 +1,1677 @@
+{
+  "aoBoxes": [
+    {
+      "name": "Africa",
+      "minLat": -34.8,
+      "maxLat": 37.4,
+      "minLon": -17.5,
+      "maxLon": 51.4
+    },
+    {
+      "name": "Antarctica",
+      "minLat": -90.0,
+      "maxLat": -63.0,
+      "minLon": -180.0,
+      "maxLon": 180.0
+    },
+    {
+      "name": "Asia",
+      "minLat": -11.0,
+      "maxLat": 81.2,
+      "minLon": 26.0,
+      "maxLon": 169.1
+    },
+    {
+      "name": "Europe",
+      "minLat": 35.0,
+      "maxLat": 71.2,
+      "minLon": -24.5,
+      "maxLon": 66.2
+    },
+    {
+      "name": "North America",
+      "minLat": 7.2,
+      "maxLat": 83.6,
+      "minLon": -168.1,
+      "maxLon": -52.6
+    },
+    {
+      "name": "Oceania",
+      "minLat": -47.1,
+      "maxLat": 28.2,
+      "minLon": 110.0,
+      "maxLon": -175.0
+    },
+    {
+      "name": "South America",
+      "minLat": -56.0,
+      "maxLat": 12.5,
+      "minLon": -81.3,
+      "maxLon": -34.8
+    },
+    {
+      "name": "Pacific Ocean",
+      "minLat": -60.0,
+      "maxLat": 66.5,
+      "minLon": 100.0,
+      "maxLon": -70.0
+    },
+    {
+      "name": "Atlantic Ocean",
+      "minLat": -60.0,
+      "maxLat": 66.5,
+      "minLon": -80.0,
+      "maxLon": 20.0
+    },
+    {
+      "name": "Indian Ocean",
+      "minLat": -60.0,
+      "maxLat": 30.0,
+      "minLon": 20.0,
+      "maxLon": 147.0
+    },
+    {
+      "name": "Arctic Ocean",
+      "minLat": 60.0,
+      "maxLat": 90.0,
+      "minLon": -180.0,
+      "maxLon": 180.0
+    },
+    {
+      "name": "Canada",
+      "minLat": 41.7,
+      "maxLat": 83.1,
+      "minLon": -141.0,
+      "maxLon": -52.6
+    },
+    {
+      "name": "United States",
+      "minLat": 24.4,
+      "maxLat": 49.4,
+      "minLon": -124.8,
+      "maxLon": -66.9
+    },
+    {
+      "name": "Mexico",
+      "minLat": 14.5,
+      "maxLat": 32.7,
+      "minLon": -118.4,
+      "maxLon": -86.7
+    },
+    {
+      "name": "Greenland",
+      "minLat": 59.8,
+      "maxLat": 83.7,
+      "minLon": -73.3,
+      "maxLon": -11.3
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "minLat": 46.7,
+      "maxLat": 47.1,
+      "minLon": -56.4,
+      "maxLon": -56.1
+    },
+    {
+      "name": "Bermuda",
+      "minLat": 32.2,
+      "maxLat": 32.4,
+      "minLon": -64.9,
+      "maxLon": -64.6
+    },
+    {
+      "name": "Guatemala",
+      "minLat": 13.7,
+      "maxLat": 18.5,
+      "minLon": -92.2,
+      "maxLon": -88.2
+    },
+    {
+      "name": "Belize",
+      "minLat": 15.8,
+      "maxLat": 18.5,
+      "minLon": -89.2,
+      "maxLon": -87.5
+    },
+    {
+      "name": "El Salvador",
+      "minLat": 13.1,
+      "maxLat": 14.5,
+      "minLon": -90.1,
+      "maxLon": -87.7
+    },
+    {
+      "name": "Honduras",
+      "minLat": 13.0,
+      "maxLat": 16.5,
+      "minLon": -89.4,
+      "maxLon": -83.1
+    },
+    {
+      "name": "Nicaragua",
+      "minLat": 10.7,
+      "maxLat": 15.0,
+      "minLon": -87.7,
+      "maxLon": -82.6
+    },
+    {
+      "name": "Costa Rica",
+      "minLat": 8.0,
+      "maxLat": 11.2,
+      "minLon": -86.0,
+      "maxLon": -82.5
+    },
+    {
+      "name": "Panama",
+      "minLat": 7.2,
+      "maxLat": 9.6,
+      "minLon": -83.0,
+      "maxLon": -77.2
+    },
+    {
+      "name": "Bahamas",
+      "minLat": 20.9,
+      "maxLat": 27.3,
+      "minLon": -80.5,
+      "maxLon": -72.7
+    },
+    {
+      "name": "Cuba",
+      "minLat": 19.8,
+      "maxLat": 23.3,
+      "minLon": -85.0,
+      "maxLon": -74.1
+    },
+    {
+      "name": "Jamaica",
+      "minLat": 17.7,
+      "maxLat": 18.6,
+      "minLon": -78.4,
+      "maxLon": -76.1
+    },
+    {
+      "name": "Haiti",
+      "minLat": 18.0,
+      "maxLat": 20.1,
+      "minLon": -74.5,
+      "maxLon": -71.6
+    },
+    {
+      "name": "Dominican Republic",
+      "minLat": 17.5,
+      "maxLat": 20.0,
+      "minLon": -72.0,
+      "maxLon": -68.3
+    },
+    {
+      "name": "Puerto Rico",
+      "minLat": 17.9,
+      "maxLat": 18.5,
+      "minLon": -67.3,
+      "maxLon": -65.2
+    },
+    {
+      "name": "United States Virgin Islands",
+      "minLat": 17.6,
+      "maxLat": 18.4,
+      "minLon": -65.1,
+      "maxLon": -64.5
+    },
+    {
+      "name": "British Virgin Islands",
+      "minLat": 18.3,
+      "maxLat": 18.8,
+      "minLon": -64.8,
+      "maxLon": -64.3
+    },
+    {
+      "name": "Anguilla",
+      "minLat": 18.1,
+      "maxLat": 18.3,
+      "minLon": -63.4,
+      "maxLon": -62.9
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "minLat": 17.1,
+      "maxLat": 17.4,
+      "minLon": -62.9,
+      "maxLon": -62.5
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "minLat": 16.9,
+      "maxLat": 17.7,
+      "minLon": -61.9,
+      "maxLon": -61.6
+    },
+    {
+      "name": "Montserrat",
+      "minLat": 16.6,
+      "maxLat": 16.9,
+      "minLon": -62.3,
+      "maxLon": -62.1
+    },
+    {
+      "name": "Guadeloupe",
+      "minLat": 15.8,
+      "maxLat": 16.5,
+      "minLon": -61.9,
+      "maxLon": -61.0
+    },
+    {
+      "name": "Dominica",
+      "minLat": 15.2,
+      "maxLat": 15.7,
+      "minLon": -61.5,
+      "maxLon": -61.2
+    },
+    {
+      "name": "Martinique",
+      "minLat": 14.3,
+      "maxLat": 14.9,
+      "minLon": -61.3,
+      "maxLon": -60.8
+    },
+    {
+      "name": "Saint Lucia",
+      "minLat": 13.6,
+      "maxLat": 14.1,
+      "minLon": -61.1,
+      "maxLon": -60.8
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "minLat": 12.5,
+      "maxLat": 13.4,
+      "minLon": -61.5,
+      "maxLon": -61.1
+    },
+    {
+      "name": "Grenada",
+      "minLat": 11.9,
+      "maxLat": 12.3,
+      "minLon": -61.8,
+      "maxLon": -61.5
+    },
+    {
+      "name": "Barbados",
+      "minLat": 13.0,
+      "maxLat": 13.4,
+      "minLon": -59.7,
+      "maxLon": -59.4
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "minLat": 10.0,
+      "maxLat": 11.4,
+      "minLon": -61.9,
+      "maxLon": -60.5
+    },
+    {
+      "name": "Aruba",
+      "minLat": 12.4,
+      "maxLat": 12.7,
+      "minLon": -70.1,
+      "maxLon": -69.8
+    },
+    {
+      "name": "Curacao",
+      "minLat": 12.0,
+      "maxLat": 12.4,
+      "minLon": -69.2,
+      "maxLon": -68.7
+    },
+    {
+      "name": "Bonaire",
+      "minLat": 11.9,
+      "maxLat": 12.3,
+      "minLon": -68.4,
+      "maxLon": -68.2
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "minLat": 21.1,
+      "maxLat": 22.0,
+      "minLon": -72.5,
+      "maxLon": -71.1
+    },
+    {
+      "name": "Cayman Islands",
+      "minLat": 19.2,
+      "maxLat": 19.8,
+      "minLon": -81.5,
+      "maxLon": -79.7
+    },
+    {
+      "name": "Brazil",
+      "minLat": -33.8,
+      "maxLat": 5.3,
+      "minLon": -74.0,
+      "maxLon": -34.8
+    },
+    {
+      "name": "Argentina",
+      "minLat": -55.1,
+      "maxLat": -21.8,
+      "minLon": -73.6,
+      "maxLon": -53.6
+    },
+    {
+      "name": "Colombia",
+      "minLat": -4.2,
+      "maxLat": 13.5,
+      "minLon": -79.0,
+      "maxLon": -66.8
+    },
+    {
+      "name": "Peru",
+      "minLat": -18.4,
+      "maxLat": 0.1,
+      "minLon": -81.4,
+      "maxLon": -68.6
+    },
+    {
+      "name": "Chile",
+      "minLat": -56.0,
+      "maxLat": -17.5,
+      "minLon": -75.7,
+      "maxLon": -66.4
+    },
+    {
+      "name": "Venezuela",
+      "minLat": 0.6,
+      "maxLat": 12.2,
+      "minLon": -73.4,
+      "maxLon": -59.8
+    },
+    {
+      "name": "Ecuador",
+      "minLat": -5.0,
+      "maxLat": 2.3,
+      "minLon": -81.1,
+      "maxLon": -75.2
+    },
+    {
+      "name": "Bolivia",
+      "minLat": -23.0,
+      "maxLat": -9.6,
+      "minLon": -69.7,
+      "maxLon": -57.4
+    },
+    {
+      "name": "Paraguay",
+      "minLat": -27.6,
+      "maxLat": -19.2,
+      "minLon": -62.6,
+      "maxLon": -54.2
+    },
+    {
+      "name": "Uruguay",
+      "minLat": -35.0,
+      "maxLat": -30.0,
+      "minLon": -58.5,
+      "maxLon": -53.0
+    },
+    {
+      "name": "Guyana",
+      "minLat": 1.1,
+      "maxLat": 8.6,
+      "minLon": -61.4,
+      "maxLon": -56.4
+    },
+    {
+      "name": "Suriname",
+      "minLat": 1.8,
+      "maxLat": 6.0,
+      "minLon": -58.1,
+      "maxLon": -54.0
+    },
+    {
+      "name": "French Guiana",
+      "minLat": 2.1,
+      "maxLat": 5.8,
+      "minLon": -54.6,
+      "maxLon": -51.6
+    },
+    {
+      "name": "Falkland Islands",
+      "minLat": -52.8,
+      "maxLat": -51.0,
+      "minLon": -61.5,
+      "maxLon": -57.7
+    },
+    {
+      "name": "Algeria",
+      "minLat": 18.9,
+      "maxLat": 37.1,
+      "minLon": -8.7,
+      "maxLon": 12.0
+    },
+    {
+      "name": "Angola",
+      "minLat": -18.0,
+      "maxLat": -4.4,
+      "minLon": 11.6,
+      "maxLon": 24.1
+    },
+    {
+      "name": "Benin",
+      "minLat": 6.2,
+      "maxLat": 12.5,
+      "minLon": 0.8,
+      "maxLon": 3.9
+    },
+    {
+      "name": "Botswana",
+      "minLat": -26.9,
+      "maxLat": -17.7,
+      "minLon": 20.0,
+      "maxLon": 29.4
+    },
+    {
+      "name": "Burkina Faso",
+      "minLat": 9.4,
+      "maxLat": 15.1,
+      "minLon": -5.5,
+      "maxLon": 2.4
+    },
+    {
+      "name": "Burundi",
+      "minLat": -4.5,
+      "maxLat": -2.3,
+      "minLon": 29.0,
+      "maxLon": 30.9
+    },
+    {
+      "name": "Cabo Verde",
+      "minLat": 14.8,
+      "maxLat": 17.2,
+      "minLon": -25.4,
+      "maxLon": -22.6
+    },
+    {
+      "name": "Cameroon",
+      "minLat": 1.6,
+      "maxLat": 13.1,
+      "minLon": 8.5,
+      "maxLon": 16.2
+    },
+    {
+      "name": "Central African Republic",
+      "minLat": 2.2,
+      "maxLat": 11.0,
+      "minLon": 14.4,
+      "maxLon": 27.5
+    },
+    {
+      "name": "Chad",
+      "minLat": 7.4,
+      "maxLat": 23.4,
+      "minLon": 13.4,
+      "maxLon": 24.0
+    },
+    {
+      "name": "Comoros",
+      "minLat": -12.4,
+      "maxLat": -11.3,
+      "minLon": 43.2,
+      "maxLon": 44.5
+    },
+    {
+      "name": "Congo (Brazzaville)",
+      "minLat": -5.0,
+      "maxLat": 3.7,
+      "minLon": 11.1,
+      "maxLon": 18.7
+    },
+    {
+      "name": "Congo (Kinshasa)",
+      "minLat": -13.5,
+      "maxLat": 5.4,
+      "minLon": 12.2,
+      "maxLon": 31.3
+    },
+    {
+      "name": "Djibouti",
+      "minLat": 10.9,
+      "maxLat": 12.7,
+      "minLon": 41.7,
+      "maxLon": 43.5
+    },
+    {
+      "name": "Egypt",
+      "minLat": 22.0,
+      "maxLat": 31.7,
+      "minLon": 24.7,
+      "maxLon": 36.9
+    },
+    {
+      "name": "Equatorial Guinea",
+      "minLat": 0.9,
+      "maxLat": 3.8,
+      "minLon": 8.4,
+      "maxLon": 11.5
+    },
+    {
+      "name": "Eritrea",
+      "minLat": 12.3,
+      "maxLat": 18.0,
+      "minLon": 36.4,
+      "maxLon": 43.1
+    },
+    {
+      "name": "Eswatini",
+      "minLat": -27.3,
+      "maxLat": -25.7,
+      "minLon": 30.7,
+      "maxLon": 32.2
+    },
+    {
+      "name": "Ethiopia",
+      "minLat": 3.4,
+      "maxLat": 14.9,
+      "minLon": 33.0,
+      "maxLon": 48.0
+    },
+    {
+      "name": "Gabon",
+      "minLat": -3.9,
+      "maxLat": 2.3,
+      "minLon": 8.7,
+      "maxLon": 14.5
+    },
+    {
+      "name": "Gambia",
+      "minLat": 13.0,
+      "maxLat": 13.8,
+      "minLon": -16.8,
+      "maxLon": -13.8
+    },
+    {
+      "name": "Ghana",
+      "minLat": 4.7,
+      "maxLat": 11.1,
+      "minLon": -3.3,
+      "maxLon": 1.2
+    },
+    {
+      "name": "Guinea",
+      "minLat": 7.2,
+      "maxLat": 12.7,
+      "minLon": -15.1,
+      "maxLon": -7.6
+    },
+    {
+      "name": "Guinea-Bissau",
+      "minLat": 10.9,
+      "maxLat": 12.7,
+      "minLon": -16.7,
+      "maxLon": -13.6
+    },
+    {
+      "name": "Ivory Coast",
+      "minLat": 4.4,
+      "maxLat": 10.7,
+      "minLon": -8.6,
+      "maxLon": -2.5
+    },
+    {
+      "name": "Kenya",
+      "minLat": -4.7,
+      "maxLat": 5.0,
+      "minLon": 33.9,
+      "maxLon": 41.9
+    },
+    {
+      "name": "Lesotho",
+      "minLat": -30.7,
+      "maxLat": -28.5,
+      "minLon": 27.0,
+      "maxLon": 29.5
+    },
+    {
+      "name": "Liberia",
+      "minLat": 4.3,
+      "maxLat": 8.6,
+      "minLon": -11.5,
+      "maxLon": -7.4
+    },
+    {
+      "name": "Libya",
+      "minLat": 19.5,
+      "maxLat": 33.0,
+      "minLon": 9.4,
+      "maxLon": 25.2
+    },
+    {
+      "name": "Madagascar",
+      "minLat": -25.6,
+      "maxLat": -11.9,
+      "minLon": 43.2,
+      "maxLon": 50.5
+    },
+    {
+      "name": "Malawi",
+      "minLat": -17.1,
+      "maxLat": -9.4,
+      "minLon": 32.7,
+      "maxLon": 35.9
+    },
+    {
+      "name": "Mali",
+      "minLat": 10.1,
+      "maxLat": 25.0,
+      "minLon": -12.2,
+      "maxLon": 4.3
+    },
+    {
+      "name": "Mauritania",
+      "minLat": 14.7,
+      "maxLat": 27.4,
+      "minLon": -17.1,
+      "maxLon": -4.8
+    },
+    {
+      "name": "Mauritius",
+      "minLat": -20.5,
+      "maxLat": -19.9,
+      "minLon": 57.3,
+      "maxLon": 57.8
+    },
+    {
+      "name": "Morocco",
+      "minLat": 21.3,
+      "maxLat": 35.9,
+      "minLon": -17.1,
+      "maxLon": -1.0
+    },
+    {
+      "name": "Mozambique",
+      "minLat": -26.9,
+      "maxLat": -10.5,
+      "minLon": 30.2,
+      "maxLon": 40.8
+    },
+    {
+      "name": "Namibia",
+      "minLat": -28.9,
+      "maxLat": -16.9,
+      "minLon": 11.7,
+      "maxLon": 25.3
+    },
+    {
+      "name": "Niger",
+      "minLat": 11.7,
+      "maxLat": 23.5,
+      "minLon": 0.1,
+      "maxLon": 16.0
+    },
+    {
+      "name": "Nigeria",
+      "minLat": 4.3,
+      "maxLat": 13.9,
+      "minLon": 2.7,
+      "maxLon": 14.7
+    },
+    {
+      "name": "Rwanda",
+      "minLat": -2.8,
+      "maxLat": -1.0,
+      "minLon": 28.8,
+      "maxLon": 30.9
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "minLat": -0.1,
+      "maxLat": 1.7,
+      "minLon": 6.4,
+      "maxLon": 7.5
+    },
+    {
+      "name": "Senegal",
+      "minLat": 12.3,
+      "maxLat": 16.7,
+      "minLon": -17.5,
+      "maxLon": -11.3
+    },
+    {
+      "name": "Seychelles",
+      "minLat": -10.3,
+      "maxLat": -3.7,
+      "minLon": 46.1,
+      "maxLon": 56.3
+    },
+    {
+      "name": "Sierra Leone",
+      "minLat": 6.9,
+      "maxLat": 10.0,
+      "minLon": -13.3,
+      "maxLon": -10.3
+    },
+    {
+      "name": "Somalia",
+      "minLat": -1.7,
+      "maxLat": 12.0,
+      "minLon": 41.0,
+      "maxLon": 51.4
+    },
+    {
+      "name": "South Africa",
+      "minLat": -34.8,
+      "maxLat": -22.1,
+      "minLon": 16.3,
+      "maxLon": 32.9
+    },
+    {
+      "name": "South Sudan",
+      "minLat": 3.5,
+      "maxLat": 12.2,
+      "minLon": 23.4,
+      "maxLon": 35.9
+    },
+    {
+      "name": "Sudan",
+      "minLat": 9.4,
+      "maxLat": 22.0,
+      "minLon": 21.8,
+      "maxLon": 38.6
+    },
+    {
+      "name": "Tanzania",
+      "minLat": -11.8,
+      "maxLat": -1.0,
+      "minLon": 29.3,
+      "maxLon": 40.5
+    },
+    {
+      "name": "Togo",
+      "minLat": 6.1,
+      "maxLat": 11.2,
+      "minLon": -0.1,
+      "maxLon": 1.8
+    },
+    {
+      "name": "Tunisia",
+      "minLat": 30.2,
+      "maxLat": 37.6,
+      "minLon": 7.5,
+      "maxLon": 11.6
+    },
+    {
+      "name": "Uganda",
+      "minLat": -1.5,
+      "maxLat": 4.2,
+      "minLon": 29.6,
+      "maxLon": 35.0
+    },
+    {
+      "name": "Zambia",
+      "minLat": -18.1,
+      "maxLat": -8.2,
+      "minLon": 22.0,
+      "maxLon": 33.7
+    },
+    {
+      "name": "Zimbabwe",
+      "minLat": -22.4,
+      "maxLat": -15.6,
+      "minLon": 25.2,
+      "maxLon": 33.1
+    },
+    {
+      "name": "Western Sahara",
+      "minLat": 21.3,
+      "maxLat": 27.7,
+      "minLon": -17.1,
+      "maxLon": -8.6
+    },
+    {
+      "name": "Reunion",
+      "minLat": -21.4,
+      "maxLat": -20.8,
+      "minLon": 55.2,
+      "maxLon": 55.9
+    },
+    {
+      "name": "China",
+      "minLat": 18.2,
+      "maxLat": 53.6,
+      "minLon": 73.5,
+      "maxLon": 134.8
+    },
+    {
+      "name": "Japan",
+      "minLat": 20.4,
+      "maxLat": 45.6,
+      "minLon": 122.9,
+      "maxLon": 154.0
+    },
+    {
+      "name": "South Korea",
+      "minLat": 33.1,
+      "maxLat": 38.6,
+      "minLon": 124.6,
+      "maxLon": 131.9
+    },
+    {
+      "name": "North Korea",
+      "minLat": 37.7,
+      "maxLat": 43.1,
+      "minLon": 124.2,
+      "maxLon": 130.7
+    },
+    {
+      "name": "Mongolia",
+      "minLat": 41.6,
+      "maxLat": 52.1,
+      "minLon": 87.7,
+      "maxLon": 119.9
+    },
+    {
+      "name": "Taiwan",
+      "minLat": 21.9,
+      "maxLat": 25.3,
+      "minLon": 120.0,
+      "maxLon": 122.0
+    },
+    {
+      "name": "Hong Kong",
+      "minLat": 22.1,
+      "maxLat": 22.6,
+      "minLon": 113.8,
+      "maxLon": 114.4
+    },
+    {
+      "name": "Macao",
+      "minLat": 22.1,
+      "maxLat": 22.2,
+      "minLon": 113.5,
+      "maxLon": 113.6
+    },
+    {
+      "name": "Indonesia",
+      "minLat": -11.0,
+      "maxLat": 6.1,
+      "minLon": 94.9,
+      "maxLon": 141.0
+    },
+    {
+      "name": "Vietnam",
+      "minLat": 8.4,
+      "maxLat": 23.4,
+      "minLon": 102.1,
+      "maxLon": 109.5
+    },
+    {
+      "name": "Thailand",
+      "minLat": 5.6,
+      "maxLat": 20.5,
+      "minLon": 97.3,
+      "maxLon": 105.6
+    },
+    {
+      "name": "Philippines",
+      "minLat": 4.6,
+      "maxLat": 21.1,
+      "minLon": 116.9,
+      "maxLon": 126.6
+    },
+    {
+      "name": "Malaysia",
+      "minLat": 0.8,
+      "maxLat": 7.4,
+      "minLon": 99.6,
+      "maxLon": 119.3
+    },
+    {
+      "name": "Myanmar",
+      "minLat": 9.6,
+      "maxLat": 28.5,
+      "minLon": 92.2,
+      "maxLon": 101.2
+    },
+    {
+      "name": "Cambodia",
+      "minLat": 10.4,
+      "maxLat": 14.7,
+      "minLon": 102.3,
+      "maxLon": 107.6
+    },
+    {
+      "name": "Laos",
+      "minLat": 13.9,
+      "maxLat": 22.5,
+      "minLon": 100.1,
+      "maxLon": 107.7
+    },
+    {
+      "name": "Singapore",
+      "minLat": 1.1,
+      "maxLat": 1.5,
+      "minLon": 103.6,
+      "maxLon": 104.1
+    },
+    {
+      "name": "Timor-Leste",
+      "minLat": -9.5,
+      "maxLat": -8.1,
+      "minLon": 124.0,
+      "maxLon": 127.3
+    },
+    {
+      "name": "Brunei",
+      "minLat": 4.0,
+      "maxLat": 5.1,
+      "minLon": 114.1,
+      "maxLon": 115.4
+    },
+    {
+      "name": "India",
+      "minLat": 6.7,
+      "maxLat": 35.5,
+      "minLon": 68.1,
+      "maxLon": 97.4
+    },
+    {
+      "name": "Pakistan",
+      "minLat": 23.7,
+      "maxLat": 37.1,
+      "minLon": 60.8,
+      "maxLon": 77.8
+    },
+    {
+      "name": "Bangladesh",
+      "minLat": 20.6,
+      "maxLat": 26.6,
+      "minLon": 88.0,
+      "maxLon": 92.7
+    },
+    {
+      "name": "Afghanistan",
+      "minLat": 29.4,
+      "maxLat": 38.5,
+      "minLon": 60.5,
+      "maxLon": 74.9
+    },
+    {
+      "name": "Nepal",
+      "minLat": 26.3,
+      "maxLat": 30.4,
+      "minLon": 80.1,
+      "maxLon": 88.2
+    },
+    {
+      "name": "Sri Lanka",
+      "minLat": 5.9,
+      "maxLat": 9.8,
+      "minLon": 79.5,
+      "maxLon": 81.9
+    },
+    {
+      "name": "Bhutan",
+      "minLat": 26.7,
+      "maxLat": 28.3,
+      "minLon": 88.8,
+      "maxLon": 92.1
+    },
+    {
+      "name": "Maldives",
+      "minLat": -0.7,
+      "maxLat": 7.1,
+      "minLon": 72.5,
+      "maxLon": 73.8
+    },
+    {
+      "name": "Turkey",
+      "minLat": 35.8,
+      "maxLat": 42.1,
+      "minLon": 25.6,
+      "maxLon": 44.8
+    },
+    {
+      "name": "Iran",
+      "minLat": 25.0,
+      "maxLat": 39.8,
+      "minLon": 44.0,
+      "maxLon": 63.3
+    },
+    {
+      "name": "Saudi Arabia",
+      "minLat": 16.4,
+      "maxLat": 32.2,
+      "minLon": 34.6,
+      "maxLon": 55.7
+    },
+    {
+      "name": "Iraq",
+      "minLat": 29.1,
+      "maxLat": 37.4,
+      "minLon": 38.8,
+      "maxLon": 48.6
+    },
+    {
+      "name": "Yemen",
+      "minLat": 12.1,
+      "maxLat": 19.0,
+      "minLon": 42.5,
+      "maxLon": 54.5
+    },
+    {
+      "name": "Syria",
+      "minLat": 32.3,
+      "maxLat": 37.3,
+      "minLon": 35.7,
+      "maxLon": 42.4
+    },
+    {
+      "name": "Jordan",
+      "minLat": 29.2,
+      "maxLat": 33.4,
+      "minLon": 34.9,
+      "maxLon": 39.3
+    },
+    {
+      "name": "United Arab Emirates",
+      "minLat": 22.5,
+      "maxLat": 26.1,
+      "minLon": 51.5,
+      "maxLon": 56.4
+    },
+    {
+      "name": "Israel",
+      "minLat": 29.5,
+      "maxLat": 33.3,
+      "minLon": 34.2,
+      "maxLon": 35.9
+    },
+    {
+      "name": "Palestine",
+      "minLat": 31.2,
+      "maxLat": 32.6,
+      "minLon": 34.2,
+      "maxLon": 35.6
+    },
+    {
+      "name": "Lebanon",
+      "minLat": 33.1,
+      "maxLat": 34.7,
+      "minLon": 35.1,
+      "maxLon": 36.6
+    },
+    {
+      "name": "Oman",
+      "minLat": 16.6,
+      "maxLat": 26.4,
+      "minLon": 52.0,
+      "maxLon": 59.9
+    },
+    {
+      "name": "Kuwait",
+      "minLat": 28.5,
+      "maxLat": 30.1,
+      "minLon": 46.5,
+      "maxLon": 48.5
+    },
+    {
+      "name": "Qatar",
+      "minLat": 24.5,
+      "maxLat": 26.2,
+      "minLon": 50.7,
+      "maxLon": 51.6
+    },
+    {
+      "name": "Bahrain",
+      "minLat": 25.5,
+      "maxLat": 26.3,
+      "minLon": 50.3,
+      "maxLon": 50.7
+    },
+    {
+      "name": "Cyprus",
+      "minLat": 34.5,
+      "maxLat": 35.7,
+      "minLon": 32.3,
+      "maxLon": 34.6
+    },
+    {
+      "name": "Azerbaijan",
+      "minLat": 38.4,
+      "maxLat": 41.9,
+      "minLon": 44.8,
+      "maxLon": 50.6
+    },
+    {
+      "name": "Georgia",
+      "minLat": 41.0,
+      "maxLat": 43.6,
+      "minLon": 40.0,
+      "maxLon": 46.7
+    },
+    {
+      "name": "Armenia",
+      "minLat": 38.8,
+      "maxLat": 41.3,
+      "minLon": 43.5,
+      "maxLon": 46.6
+    },
+    {
+      "name": "Kazakhstan",
+      "minLat": 40.5,
+      "maxLat": 55.4,
+      "minLon": 46.5,
+      "maxLon": 87.3
+    },
+    {
+      "name": "Uzbekistan",
+      "minLat": 37.2,
+      "maxLat": 45.6,
+      "minLon": 56.0,
+      "maxLon": 73.2
+    },
+    {
+      "name": "Turkmenistan",
+      "minLat": 35.1,
+      "maxLat": 42.8,
+      "minLon": 52.4,
+      "maxLon": 66.7
+    },
+    {
+      "name": "Kyrgyzstan",
+      "minLat": 39.2,
+      "maxLat": 43.3,
+      "minLon": 69.3,
+      "maxLon": 80.3
+    },
+    {
+      "name": "Tajikistan",
+      "minLat": 36.7,
+      "maxLat": 41.1,
+      "minLon": 67.3,
+      "maxLon": 75.2
+    },
+    {
+      "name": "Russia",
+      "minLat": 41.2,
+      "maxLat": 81.9,
+      "minLon": 19.6,
+      "maxLon": -169.0
+    },
+    {
+      "name": "France",
+      "minLat": 41.3,
+      "maxLat": 51.1,
+      "minLon": -5.1,
+      "maxLon": 9.6
+    },
+    {
+      "name": "United Kingdom",
+      "minLat": 49.9,
+      "maxLat": 60.9,
+      "minLon": -8.6,
+      "maxLon": 1.8
+    },
+    {
+      "name": "Ireland",
+      "minLat": 51.4,
+      "maxLat": 55.4,
+      "minLon": -10.5,
+      "maxLon": -6.0
+    },
+    {
+      "name": "Netherlands",
+      "minLat": 50.7,
+      "maxLat": 53.6,
+      "minLon": 3.3,
+      "maxLon": 7.2
+    },
+    {
+      "name": "Belgium",
+      "minLat": 49.5,
+      "maxLat": 51.5,
+      "minLon": 2.5,
+      "maxLon": 6.4
+    },
+    {
+      "name": "Luxembourg",
+      "minLat": 49.4,
+      "maxLat": 50.2,
+      "minLon": 5.7,
+      "maxLon": 6.5
+    },
+    {
+      "name": "Monaco",
+      "minLat": 43.7,
+      "maxLat": 43.7,
+      "minLon": 7.4,
+      "maxLon": 7.4
+    },
+    {
+      "name": "Germany",
+      "minLat": 47.3,
+      "maxLat": 55.1,
+      "minLon": 5.9,
+      "maxLon": 15.0
+    },
+    {
+      "name": "Poland",
+      "minLat": 49.0,
+      "maxLat": 54.9,
+      "minLon": 14.1,
+      "maxLon": 24.2
+    },
+    {
+      "name": "Switzerland",
+      "minLat": 45.8,
+      "maxLat": 47.8,
+      "minLon": 5.9,
+      "maxLon": 10.5
+    },
+    {
+      "name": "Austria",
+      "minLat": 46.4,
+      "maxLat": 49.0,
+      "minLon": 9.5,
+      "maxLon": 17.2
+    },
+    {
+      "name": "Czechia",
+      "minLat": 48.5,
+      "maxLat": 51.1,
+      "minLon": 12.0,
+      "maxLon": 18.9
+    },
+    {
+      "name": "Slovakia",
+      "minLat": 47.7,
+      "maxLat": 49.6,
+      "minLon": 16.8,
+      "maxLon": 22.6
+    },
+    {
+      "name": "Hungary",
+      "minLat": 45.7,
+      "maxLat": 48.6,
+      "minLon": 16.1,
+      "maxLon": 22.9
+    },
+    {
+      "name": "Liechtenstein",
+      "minLat": 47.0,
+      "maxLat": 47.3,
+      "minLon": 9.4,
+      "maxLon": 9.6
+    },
+    {
+      "name": "Norway",
+      "minLat": 57.9,
+      "maxLat": 71.2,
+      "minLon": 4.6,
+      "maxLon": 31.1
+    },
+    {
+      "name": "Sweden",
+      "minLat": 55.3,
+      "maxLat": 69.1,
+      "minLon": 11.0,
+      "maxLon": 24.2
+    },
+    {
+      "name": "Finland",
+      "minLat": 59.8,
+      "maxLat": 70.1,
+      "minLon": 20.6,
+      "maxLon": 31.6
+    },
+    {
+      "name": "Denmark",
+      "minLat": 54.5,
+      "maxLat": 57.8,
+      "minLon": 8.0,
+      "maxLon": 15.2
+    },
+    {
+      "name": "Iceland",
+      "minLat": 63.3,
+      "maxLat": 66.6,
+      "minLon": -24.5,
+      "maxLon": -13.5
+    },
+    {
+      "name": "Estonia",
+      "minLat": 57.5,
+      "maxLat": 59.7,
+      "minLon": 21.8,
+      "maxLon": 28.2
+    },
+    {
+      "name": "Latvia",
+      "minLat": 55.7,
+      "maxLat": 58.1,
+      "minLon": 21.0,
+      "maxLon": 28.2
+    },
+    {
+      "name": "Lithuania",
+      "minLat": 53.9,
+      "maxLat": 56.4,
+      "minLon": 20.9,
+      "maxLon": 26.8
+    },
+    {
+      "name": "Italy",
+      "minLat": 35.5,
+      "maxLat": 47.1,
+      "minLon": 6.6,
+      "maxLon": 18.5
+    },
+    {
+      "name": "Spain",
+      "minLat": 36.0,
+      "maxLat": 43.8,
+      "minLon": -9.3,
+      "maxLon": 3.3
+    },
+    {
+      "name": "Portugal",
+      "minLat": 36.9,
+      "maxLat": 42.2,
+      "minLon": -9.5,
+      "maxLon": -6.2
+    },
+    {
+      "name": "Greece",
+      "minLat": 34.8,
+      "maxLat": 41.8,
+      "minLon": 19.3,
+      "maxLon": 29.7
+    },
+    {
+      "name": "Albania",
+      "minLat": 39.6,
+      "maxLat": 42.7,
+      "minLon": 19.2,
+      "maxLon": 21.1
+    },
+    {
+      "name": "Croatia",
+      "minLat": 42.4,
+      "maxLat": 46.5,
+      "minLon": 13.5,
+      "maxLon": 19.4
+    },
+    {
+      "name": "Slovenia",
+      "minLat": 45.4,
+      "maxLat": 46.9,
+      "minLon": 13.4,
+      "maxLon": 16.6
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "minLat": 42.6,
+      "maxLat": 45.3,
+      "minLon": 15.7,
+      "maxLon": 19.6
+    },
+    {
+      "name": "Serbia",
+      "minLat": 42.2,
+      "maxLat": 46.2,
+      "minLon": 18.8,
+      "maxLon": 23.0
+    },
+    {
+      "name": "Montenegro",
+      "minLat": 41.8,
+      "maxLat": 43.6,
+      "minLon": 18.4,
+      "maxLon": 20.3
+    },
+    {
+      "name": "North Macedonia",
+      "minLat": 40.8,
+      "maxLat": 42.4,
+      "minLon": 20.4,
+      "maxLon": 23.0
+    },
+    {
+      "name": "Malta",
+      "minLat": 35.8,
+      "maxLat": 36.1,
+      "minLon": 14.2,
+      "maxLon": 14.6
+    },
+    {
+      "name": "Andorra",
+      "minLat": 42.4,
+      "maxLat": 42.7,
+      "minLon": 1.4,
+      "maxLon": 1.8
+    },
+    {
+      "name": "San Marino",
+      "minLat": 43.9,
+      "maxLat": 44.0,
+      "minLon": 12.4,
+      "maxLon": 12.5
+    },
+    {
+      "name": "Vatican City",
+      "minLat": 41.9,
+      "maxLat": 41.9,
+      "minLon": 12.4,
+      "maxLon": 12.5
+    },
+    {
+      "name": "Ukraine",
+      "minLat": 44.4,
+      "maxLat": 52.4,
+      "minLon": 22.1,
+      "maxLon": 40.2
+    },
+    {
+      "name": "Romania",
+      "minLat": 43.6,
+      "maxLat": 48.3,
+      "minLon": 20.2,
+      "maxLon": 29.7
+    },
+    {
+      "name": "Bulgaria",
+      "minLat": 41.2,
+      "maxLat": 44.2,
+      "minLon": 22.4,
+      "maxLon": 28.6
+    },
+    {
+      "name": "Belarus",
+      "minLat": 51.3,
+      "maxLat": 56.2,
+      "minLon": 23.2,
+      "maxLon": 32.8
+    },
+    {
+      "name": "Moldova",
+      "minLat": 45.5,
+      "maxLat": 48.5,
+      "minLon": 26.6,
+      "maxLon": 30.1
+    },
+    {
+      "name": "Australia",
+      "minLat": -43.7,
+      "maxLat": -10.6,
+      "minLon": 112.9,
+      "maxLon": 153.6
+    },
+    {
+      "name": "New Zealand",
+      "minLat": -47.3,
+      "maxLat": -34.4,
+      "minLon": 166.4,
+      "maxLon": 178.6
+    },
+    {
+      "name": "Papua New Guinea",
+      "minLat": -12.0,
+      "maxLat": 0.0,
+      "minLon": 141.0,
+      "maxLon": 156.0
+    },
+    {
+      "name": "Fiji",
+      "minLat": -21.0,
+      "maxLat": -12.5,
+      "minLon": 177.0,
+      "maxLon": -178.0
+    },
+    {
+      "name": "Solomon Islands",
+      "minLat": -12.8,
+      "maxLat": -4.8,
+      "minLon": 155.3,
+      "maxLon": 170.2
+    },
+    {
+      "name": "Vanuatu",
+      "minLat": -20.3,
+      "maxLat": -13.1,
+      "minLon": 166.5,
+      "maxLon": 170.2
+    },
+    {
+      "name": "New Caledonia",
+      "minLat": -23.0,
+      "maxLat": -17.0,
+      "minLon": 163.0,
+      "maxLon": 169.0
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "minLat": 1.0,
+      "maxLat": 12.0,
+      "minLon": 137.0,
+      "maxLon": 165.0
+    },
+    {
+      "name": "Kiribati",
+      "minLat": -5.0,
+      "maxLat": 5.0,
+      "minLon": 168.0,
+      "maxLon": -150.0
+    },
+    {
+      "name": "Marshall Islands",
+      "minLat": 4.0,
+      "maxLat": 15.0,
+      "minLon": 160.0,
+      "maxLon": 173.0
+    },
+    {
+      "name": "Palau",
+      "minLat": 2.0,
+      "maxLat": 9.0,
+      "minLon": 131.0,
+      "maxLon": 135.0
+    },
+    {
+      "name": "Nauru",
+      "minLat": -0.6,
+      "maxLat": -0.5,
+      "minLon": 166.9,
+      "maxLon": 167.0
+    },
+    {
+      "name": "Guam",
+      "minLat": 13.2,
+      "maxLat": 13.7,
+      "minLon": 144.6,
+      "maxLon": 145.0
+    },
+    {
+      "name": "Samoa",
+      "minLat": -14.1,
+      "maxLat": -13.4,
+      "minLon": -172.9,
+      "maxLon": -171.3
+    },
+    {
+      "name": "Tonga",
+      "minLat": -21.6,
+      "maxLat": -15.4,
+      "minLon": -176.3,
+      "maxLon": -173.8
+    },
+    {
+      "name": "Tuvalu",
+      "minLat": -10.8,
+      "maxLat": -5.6,
+      "minLon": 176.0,
+      "maxLon": 180.0
+    },
+    {
+      "name": "French Polynesia",
+      "minLat": -28.0,
+      "maxLat": -7.0,
+      "minLon": -155.0,
+      "maxLon": -134.0
+    },
+    {
+      "name": "Cook Islands",
+      "minLat": -23.0,
+      "maxLat": -8.0,
+      "minLon": -166.0,
+      "maxLon": -157.0
+    },
+    {
+      "name": "American Samoa",
+      "minLat": -14.4,
+      "maxLat": -11.0,
+      "minLon": -171.1,
+      "maxLon": -168.1
+    },
+    {
+      "name": "Mauritius",
+      "minLat": -20.6,
+      "maxLat": -19.9,
+      "minLon": 57.3,
+      "maxLon": 57.9
+    },
+    {
+      "name": "Seychelles",
+      "minLat": -10.2,
+      "maxLat": -3.7,
+      "minLon": 46.1,
+      "maxLon": 56.4
+    },
+    {
+      "name": "Comoros",
+      "minLat": -12.5,
+      "maxLat": -11.3,
+      "minLon": 43.2,
+      "maxLon": 44.6
+    },
+    {
+      "name": "Maldives",
+      "minLat": -0.7,
+      "maxLat": 7.1,
+      "minLon": 72.5,
+      "maxLon": 73.9
+    },
+    {
+      "name": "Cape Verde",
+      "minLat": 14.7,
+      "maxLat": 17.3,
+      "minLon": -25.4,
+      "maxLon": -22.6
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "minLat": -0.1,
+      "maxLat": 1.8,
+      "minLon": 6.4,
+      "maxLon": 7.6
+    }
+  ]
+}
